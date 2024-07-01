@@ -1,4 +1,4 @@
-package com.example.intricare
+package com.example.intricare.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
+import com.example.intricare.R
 import com.example.intricare.data.Post
 
 class DetailsFragment(private val post: Post) : Fragment() {

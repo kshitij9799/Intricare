@@ -12,6 +12,10 @@ import androidx.lifecycle.lifecycleScope
 import com.example.intricare.data.LoginRequest
 import com.example.intricare.data.Message
 import com.example.intricare.data.Post
+import com.example.intricare.fragments.HomeFragment
+import com.example.intricare.fragments.LoginFragment
+import com.example.intricare.utils.Api
+import com.example.intricare.utils.UserCredPreferences
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay

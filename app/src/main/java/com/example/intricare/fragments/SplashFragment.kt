@@ -1,4 +1,4 @@
-package com.example.intricare
+package com.example.intricare.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
+import com.example.intricare.R
 
 
 class SplashFragment : Fragment() {

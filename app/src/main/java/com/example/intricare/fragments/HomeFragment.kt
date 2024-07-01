@@ -1,4 +1,4 @@
-package com.example.intricare
+package com.example.intricare.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -9,7 +9,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.intricare.utils.Api
 import com.example.intricare.MainActivity.Companion.postList
+import com.example.intricare.R
 import com.example.intricare.adapter.PostListAdapter
 import com.example.intricare.data.Message
 import com.example.intricare.data.Post

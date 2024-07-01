@@ -1,4 +1,4 @@
-package com.example.intricare
+package com.example.intricare.utils
 
 import com.example.intricare.data.LoginRequest
 import com.example.intricare.data.LoginUser

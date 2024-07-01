@@ -1,4 +1,4 @@
-package com.example.intricare
+package com.example.intricare.utils
 
 import android.content.Context
 import com.example.intricare.data.LoginRequest
