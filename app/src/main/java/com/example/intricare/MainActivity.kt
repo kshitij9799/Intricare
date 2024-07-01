@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
     init {
         getData()
         lifecycleScope.launch {
-            delay(1000)
+            delay(2500)
             val loginCred = UserCredPreferences(applicationContext).getCredentials()
             CoroutineScope(Dispatchers.IO).launch {
                 checkLoginCred(
