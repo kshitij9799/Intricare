@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Intricare</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name : </string>
+    <string name="description">Description : </string>
+    <string name="pinCode">PinCode : </string>
+    <string name="branchType">BranchType : </string>
+    <string name="deliveryStatus">DeliveryStatus : </string>
+    <string name="taluk">Taluk : </string>
+    <string name="circle">Circle : </string>
+    <string name="district">District : </string>
+    <string name="division">Division : </string>
+    <string name="region">Region : </string>
+    <string name="state">State : </string>
+    <string name="country">Country : </string>
+    <string name="no_description">No Description</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
 </resources>
